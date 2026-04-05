@@ -2,3 +2,7 @@ numpy
 matplotlib
 pandas
 seaborn
+wbgapi
+math
+scikit-learn
+scipy
